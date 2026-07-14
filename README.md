@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá, eu sou o Davi Ferreira 👋
 
-<!--
-**fsdavi13/fsdavi13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Estudante de Sistemas de Informação na UFSC
+- 💻 Desenvolvedor com foco em Python e SQL.
+- 🔎 Buscando oportunidades de estágio na área de tecnologia.
+- 🚀 Interessado em desenvolver soluções, aprender novas tecnologias e evoluir como desenvolvedor.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,sqlite,git,github,vscode" />
+</p>
+
+## 📫 Contato
+
+<p>
+  <a href="mailto:fsdavi13@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
+  <a href="https://www.linkedin.com/in/fsdavi">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="https://fsdavi13.github.io/portfolio-davi/">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=githubpages&logoColor=white">
+  </a>
+</p>
