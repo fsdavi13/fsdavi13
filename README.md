@@ -1,4 +1,4 @@
-# Olá, eu sou o Davi Ferreira 👋
+# - Davi Ferreira
 
 - 🎓 Estudante de Sistemas de Informação na UFSC
 - 💻 Desenvolvedor com foco em Python e SQL.
