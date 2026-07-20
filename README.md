@@ -8,7 +8,7 @@
 ## 🛠️ Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cs,dotnet,react,ts,html,css,vite,postgres,sqlite,git,github,vscode&size=35" />
+  <img src="https://skillicons.dev/icons?i=python,js,react,ts,html,css,sqlite,dotnet,cs,git&size=35" />
 </p>
 
 ## 📫 Contato
